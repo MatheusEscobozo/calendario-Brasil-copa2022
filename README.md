@@ -1,4 +1,4 @@
-﻿<h1 align="center"> Calendário das partidas do Brasil para a do Mundo 2022 </h1>
+<h1 align="center"> Calendário das partidas do Brasil para a do Mundo 2022 </h1>
 
 <p align="center">
 Cronograma de partidas oficiais do Brasil na Copa do Mundo de 2022. 
